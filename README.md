@@ -2,11 +2,7 @@
 
 ## Proje İçeriği
 - Asp.net Core 8
-- HTML
-- CSS
-- JS
-- TypeScript
-- Angular
+- Nlog
 
 ## Proje Hakkında
 
