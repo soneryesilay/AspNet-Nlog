@@ -2,7 +2,6 @@
 
 ## Proje İçeriği
 - Asp.net Core 8
-- IyzicoAPI
 - HTML
 - CSS
 - JS
